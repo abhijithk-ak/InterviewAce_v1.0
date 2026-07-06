@@ -1,4 +1,4 @@
-# InterviewAce v2.0 🎯
+# InterviewAce v1.0 🎯
 
 **AI-Enhanced Mock Interview Platform with Intelligent Multi-Domain Evaluation**
 
